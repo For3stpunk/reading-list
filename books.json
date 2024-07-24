@@ -1,0 +1,20 @@
+{
+  "currently_reading": [
+    {
+      "title": "Joyland",
+      "author": "Stephen King"
+    }
+  ],
+  "read": [
+    {
+      "title": "Book Title 2",
+      "author": "Author 2"
+    }
+  ],
+  "to_read": [
+    {
+      "title": "Book Title 3",
+      "author": "Author 3"
+    }
+  ]
+}
