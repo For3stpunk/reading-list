@@ -8,7 +8,8 @@
     "pages": 209,
     "title": "Things Fall Apart",
     "year": 1958,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Hans Christian Andersen",
@@ -19,7 +20,8 @@
     "pages": 784,
     "title": "Fairy tales",
     "year": 1836,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Dante Alighieri",
@@ -30,7 +32,8 @@
     "pages": 928,
     "title": "The Divine Comedy",
     "year": 1315,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Unknown",
@@ -41,7 +44,8 @@
     "pages": 160,
     "title": "The Epic Of Gilgamesh",
     "year": -1700,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Unknown",
@@ -52,7 +56,8 @@
     "pages": 176,
     "title": "The Book Of Job",
     "year": -600,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Unknown",
@@ -63,7 +68,8 @@
     "pages": 288,
     "title": "One Thousand and One Nights",
     "year": 1200,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Unknown",
@@ -74,7 +80,8 @@
     "pages": 384,
     "title": "Njál's Saga",
     "year": 1350,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Jane Austen",
@@ -85,7 +92,8 @@
     "pages": 226,
     "title": "Pride and Prejudice",
     "year": 1813,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Honoré de Balzac",
@@ -96,7 +104,8 @@
     "pages": 443,
     "title": "Le Père Goriot",
     "year": 1835,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Samuel Beckett",
@@ -107,7 +116,8 @@
     "pages": 256,
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
     "year": 1952,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Giovanni Boccaccio",
@@ -118,7 +128,8 @@
     "pages": 1024,
     "title": "The Decameron",
     "year": 1351,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Jorge Luis Borges",
@@ -129,7 +140,8 @@
     "pages": 224,
     "title": "Ficciones",
     "year": 1965,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Emily Brontë",
@@ -140,7 +152,8 @@
     "pages": 342,
     "title": "Wuthering Heights",
     "year": 1847,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Albert Camus",
@@ -151,7 +164,8 @@
     "pages": 185,
     "title": "The Stranger",
     "year": 1942,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Paul Celan",
@@ -162,7 +176,8 @@
     "pages": 320,
     "title": "Poems",
     "year": 1952,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Louis-Ferdinand Céline",
@@ -173,7 +188,8 @@
     "pages": 505,
     "title": "Journey to the End of the Night",
     "year": 1932,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Miguel de Cervantes",
@@ -184,7 +200,8 @@
     "pages": 1056,
     "title": "Don Quijote De La Mancha",
     "year": 1610,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Geoffrey Chaucer",
@@ -195,7 +212,8 @@
     "pages": 544,
     "title": "The Canterbury Tales",
     "year": 1450,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Anton Chekhov",
@@ -206,7 +224,8 @@
     "pages": 194,
     "title": "Stories",
     "year": 1886,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Joseph Conrad",
@@ -217,7 +236,8 @@
     "pages": 320,
     "title": "Nostromo",
     "year": 1904,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Charles Dickens",
@@ -228,7 +248,8 @@
     "pages": 194,
     "title": "Great Expectations",
     "year": 1861,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Denis Diderot",
@@ -239,10 +260,11 @@
     "pages": 596,
     "title": "Jacques the Fatalist",
     "year": 1796,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
-    "author": "Alfred D\u00f6blin",
+    "author": "Alfred Döblin",
     "country": "Germany",
     "imageLink": "images/berlin-alexanderplatz.jpg",
     "language": "German",
@@ -250,8 +272,11 @@
     "pages": 600,
     "title": "Berlin Alexanderplatz",
     "year": 1929,
-    "Category": "to-read"
-  },
+    "Category": "to-read",
+    "User": "John_Doe"
+  }
+],
+  [
   {
     "author": "Fyodor Dostoevsky",
     "country": "Russia",
@@ -261,7 +286,8 @@
     "pages": 551,
     "title": "Crime and Punishment",
     "year": 1866,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -272,7 +298,8 @@
     "pages": 656,
     "title": "The Idiot",
     "year": 1869,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -283,7 +310,8 @@
     "pages": 768,
     "title": "The Possessed",
     "year": 1872,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -294,7 +322,8 @@
     "pages": 824,
     "title": "The Brothers Karamazov",
     "year": 1880,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "George Eliot",
@@ -305,7 +334,8 @@
     "pages": 800,
     "title": "Middlemarch",
     "year": 1871,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Ralph Ellison",
@@ -316,7 +346,8 @@
     "pages": 581,
     "title": "Invisible Man",
     "year": 1952,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Euripides",
@@ -327,7 +358,8 @@
     "pages": 104,
     "title": "Medea",
     "year": -431,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "William Faulkner",
@@ -338,7 +370,8 @@
     "pages": 313,
     "title": "Absalom, Absalom!",
     "year": 1936,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "William Faulkner",
@@ -349,7 +382,8 @@
     "pages": 326,
     "title": "The Sound and the Fury",
     "year": 1929,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Gustave Flaubert",
@@ -360,7 +394,8 @@
     "pages": 528,
     "title": "Madame Bovary",
     "year": 1857,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Gustave Flaubert",
@@ -371,7 +406,8 @@
     "pages": 606,
     "title": "Sentimental Education",
     "year": 1869,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Federico García Lorca",
@@ -382,7 +418,8 @@
     "pages": 218,
     "title": "Gypsy Ballads",
     "year": 1928,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Gabriel García Márquez",
@@ -393,7 +430,8 @@
     "pages": 417,
     "title": "One Hundred Years of Solitude",
     "year": 1967,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Gabriel García Márquez",
@@ -404,7 +442,8 @@
     "pages": 368,
     "title": "Love in the Time of Cholera",
     "year": 1985,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Johann Wolfgang von Goethe",
@@ -415,7 +454,8 @@
     "pages": 158,
     "title": "Faust",
     "year": 1832,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Nikolai Gogol",
@@ -426,7 +466,8 @@
     "pages": 432,
     "title": "Dead Souls",
     "year": 1842,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Günter Grass",
@@ -437,7 +478,8 @@
     "pages": 600,
     "title": "The Tin Drum",
     "year": 1959,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "João Guimarães Rosa",
@@ -448,7 +490,8 @@
     "pages": 494,
     "title": "The Devil to Pay in the Backlands",
     "year": 1956,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Knut Hamsun",
@@ -459,7 +502,8 @@
     "pages": 176,
     "title": "Hunger",
     "year": 1890,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Ernest Hemingway",
@@ -470,7 +514,8 @@
     "pages": 128,
     "title": "The Old Man and the Sea",
     "year": 1952,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Homer",
@@ -481,7 +526,8 @@
     "pages": 608,
     "title": "Iliad",
     "year": -735,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Homer",
@@ -492,7 +538,8 @@
     "pages": 374,
     "title": "Odyssey",
     "year": -800,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Henrik Ibsen",
@@ -503,7 +550,8 @@
     "pages": 68,
     "title": "A Doll's House",
     "year": 1879,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "James Joyce",
@@ -514,7 +562,8 @@
     "pages": 228,
     "title": "Ulysses",
     "year": 1922,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Franz Kafka",
@@ -525,7 +574,8 @@
     "pages": 488,
     "title": "Stories",
     "year": 1924,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Franz Kafka",
@@ -536,7 +586,8 @@
     "pages": 160,
     "title": "The Trial",
     "year": 1925,
-    "Category": "to-read"
+    "Category": "to-read",
+	"User": "John_Doe"
   },
   {
     "author": "Franz Kafka",
@@ -547,7 +598,8 @@
     "pages": 352,
     "title": "The Castle",
     "year": 1926,
-    "Category": "to-read"
+    "Category": "to-read",
+	"User": "John_Doe"
   },
   {
     "author": "Kālidāsa",
@@ -558,7 +610,8 @@
     "pages": 147,
     "title": "The recognition of Shakuntala",
     "year": 150,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Yasunari Kawabata",
@@ -569,7 +622,8 @@
     "pages": 288,
     "title": "The Sound of the Mountain",
     "year": 1954,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Nikos Kazantzakis",
@@ -580,7 +634,8 @@
     "pages": 368,
     "title": "Zorba the Greek",
     "year": 1946,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "D. H. Lawrence",
@@ -591,7 +646,8 @@
     "pages": 432,
     "title": "Sons and Lovers",
     "year": 1913,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Halldór Laxness",
@@ -602,7 +658,8 @@
     "pages": 470,
     "title": "Independent People",
     "year": 1934,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Giacomo Leopardi",
@@ -613,7 +670,8 @@
     "pages": 184,
     "title": "Poems",
     "year": 1818,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Doris Lessing",
@@ -624,7 +682,8 @@
     "pages": 688,
     "title": "The Golden Notebook",
     "year": 1962,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Astrid Lindgren",
@@ -635,7 +694,8 @@
     "pages": 160,
     "title": "Pippi Longstocking",
     "year": 1945,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Lu Xun",
@@ -646,7 +706,8 @@
     "pages": 389,
     "title": "Diary of a Madman",
     "year": 1918,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Naguib Mahfouz",
@@ -657,7 +718,8 @@
     "pages": 355,
     "title": "Children of Gebelawi",
     "year": 1959,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Thomas Mann",
@@ -668,7 +730,8 @@
     "pages": 736,
     "title": "Buddenbrooks",
     "year": 1901,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Thomas Mann",
@@ -679,7 +742,8 @@
     "pages": 720,
     "title": "The Magic Mountain",
     "year": 1924,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Herman Melville",
@@ -690,7 +754,8 @@
     "pages": 378,
     "title": "Moby Dick",
     "year": 1851,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Michel de Montaigne",
@@ -701,7 +766,8 @@
     "pages": 404,
     "title": "Essays",
     "year": 1595,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Elsa Morante",
@@ -712,7 +778,8 @@
     "pages": 600,
     "title": "History",
     "year": 1974,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Toni Morrison",
@@ -723,7 +790,8 @@
     "pages": 321,
     "title": "Beloved",
     "year": 1987,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Haruki Murakami",
@@ -734,7 +802,8 @@
     "pages": 353,
     "title": "A Wild Sheep Chase",
     "year": 1982,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Robert Musil",
@@ -745,7 +814,8 @@
     "pages": 365,
     "title": "The Man Without Qualities",
     "year": 1931,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Vladimir Nabokov",
@@ -756,7 +826,8 @@
     "pages": 317,
     "title": "Lolita",
     "year": 1955,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "George Orwell",
@@ -767,7 +838,8 @@
     "pages": 272,
     "title": "Nineteen Eighty-Four",
     "year": 1949,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Ovid",
@@ -778,7 +850,8 @@
     "pages": 576,
     "title": "Metamorphoses",
     "year": 100,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Fernando Pessoa",
@@ -789,29 +862,32 @@
     "pages": 272,
     "title": "The Book of Disquiet",
     "year": 1928,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Edgar Allan Poe",
     "country": "United States",
     "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
     "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography\n",
+    "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
     "pages": 842,
     "title": "Tales",
     "year": 1950,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Marcel Proust",
     "country": "France",
-    "imageLink": "images/in-search-of-lost-time.jpg",
+    "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
     "language": "French",
     "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
-    "pages": 2400,
+    "pages": 2408,
     "title": "In Search of Lost Time",
     "year": 1920,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "François Rabelais",
@@ -822,18 +898,20 @@
     "pages": 623,
     "title": "Gargantua and Pantagruel",
     "year": 1533,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Juan Rulfo",
     "country": "Mexico",
     "imageLink": "images/pedro-paramo.jpg",
     "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n",
+    "link": "https://en.wikipedia.org/wiki/Pedro_Páramo\n",
     "pages": 124,
     "title": "Pedro Páramo",
     "year": 1955,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Rumi",
@@ -844,7 +922,8 @@
     "pages": 438,
     "title": "The Masnavi",
     "year": 1236,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Salman Rushdie",
@@ -855,18 +934,20 @@
     "pages": 536,
     "title": "Midnight's Children",
     "year": 1981,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Saadi",
     "country": "Persia, Persian Empire",
-    "imageLink": "images/the-canterbury-tales.jpg",
+    "imageLink": "images/the-gulistan-of-saadi.jpg",
     "language": "Persian",
     "link": "https://en.wikipedia.org/wiki/Gulistan_(book)\n",
     "pages": 298,
-    "title": "Bostan",
-    "year": 1257,
-    "Category": "to-read"
+    "title": "The Gulistan of Sa'di",
+    "year": 1258,
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "Tayeb Salih",
@@ -877,7 +958,8 @@
     "pages": 139,
     "title": "Season of Migration to the North",
     "year": 1966,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "José Saramago",
@@ -888,7 +970,8 @@
     "pages": 352,
     "title": "Blindness",
     "year": 1995,
-    "Category": "to-read"
+    "Category": "to-read",
+    "User": "John_Doe"
   },
   {
     "author": "William Shakespeare",
@@ -899,7 +982,8 @@
     "pages": 432,
     "title": "Hamlet",
     "year": 1603,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "William Shakespeare",
@@ -910,7 +994,8 @@
     "pages": 384,
     "title": "King Lear",
     "year": 1608,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "William Shakespeare",
@@ -921,7 +1006,8 @@
     "pages": 314,
     "title": "Othello",
     "year": 1609,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Sophocles",
@@ -932,7 +1018,8 @@
     "pages": 88,
     "title": "Oedipus the King",
     "year": -430,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Stendhal",
@@ -943,7 +1030,8 @@
     "pages": 576,
     "title": "The Red and the Black",
     "year": 1830,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Laurence Sterne",
@@ -954,7 +1042,8 @@
     "pages": 640,
     "title": "The Life And Opinions of Tristram Shandy",
     "year": 1760,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Italo Svevo",
@@ -965,7 +1054,8 @@
     "pages": 412,
     "title": "Confessions of Zeno",
     "year": 1923,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Jonathan Swift",
@@ -976,7 +1066,8 @@
     "pages": 178,
     "title": "Gulliver's Travels",
     "year": 1726,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Leo Tolstoy",
@@ -987,7 +1078,8 @@
     "pages": 1296,
     "title": "War and Peace",
     "year": 1867,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Leo Tolstoy",
@@ -998,7 +1090,8 @@
     "pages": 864,
     "title": "Anna Karenina",
     "year": 1877,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Leo Tolstoy",
@@ -1009,7 +1102,8 @@
     "pages": 92,
     "title": "The Death of Ivan Ilyich",
     "year": 1886,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Mark Twain",
@@ -1020,7 +1114,8 @@
     "pages": 224,
     "title": "The Adventures of Huckleberry Finn",
     "year": 1884,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Valmiki",
@@ -1031,7 +1126,8 @@
     "pages": 152,
     "title": "Ramayana",
     "year": -450,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Virgil",
@@ -1042,7 +1138,8 @@
     "pages": 442,
     "title": "The Aeneid",
     "year": -23,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Vyasa",
@@ -1053,7 +1150,8 @@
     "pages": 276,
     "title": "Mahabharata",
     "year": -700,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Walt Whitman",
@@ -1064,7 +1162,8 @@
     "pages": 152,
     "title": "Leaves of Grass",
     "year": 1855,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Virginia Woolf",
@@ -1075,7 +1174,8 @@
     "pages": 216,
     "title": "Mrs Dalloway",
     "year": 1925,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Virginia Woolf",
@@ -1086,7 +1186,8 @@
     "pages": 209,
     "title": "To the Lighthouse",
     "year": 1927,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   },
   {
     "author": "Marguerite Yourcenar",
@@ -1097,6 +1198,7 @@
     "pages": 408,
     "title": "Memoirs of Hadrian",
     "year": 1951,
-    "Category": "to-read"
+    "Category": "to-read",
+    "user": "John_Doe"
   }
 ]
