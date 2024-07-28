@@ -1,18 +1,4 @@
-{
-  "currently_reading": [
-    {
-      "title": "Joyland",
-      "author": "Stephen King"
-    }
-  ],
-  "read": [
-    {
-      "title": "Book Title 2",
-      "author": "Author 2"
-    }
-  ],
-  "to_read": [
-    [
+[
   {
     "author": "Chinua Achebe",
     "country": "Nigeria",
@@ -1014,4 +1000,3 @@
     "year": 1951
   }
 ]
-}
