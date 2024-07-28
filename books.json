@@ -8,7 +8,7 @@
     "pages": 209,
     "title": "Things Fall Apart",
     "year": 1958,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Hans Christian Andersen",
@@ -19,7 +19,7 @@
     "pages": 784,
     "title": "Fairy tales",
     "year": 1836,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Dante Alighieri",
@@ -30,7 +30,7 @@
     "pages": 928,
     "title": "The Divine Comedy",
     "year": 1315,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Unknown",
@@ -41,7 +41,7 @@
     "pages": 160,
     "title": "The Epic Of Gilgamesh",
     "year": -1700,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Unknown",
@@ -52,7 +52,7 @@
     "pages": 176,
     "title": "The Book Of Job",
     "year": -600,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Unknown",
@@ -63,7 +63,7 @@
     "pages": 288,
     "title": "One Thousand and One Nights",
     "year": 1200,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Unknown",
@@ -74,7 +74,7 @@
     "pages": 384,
     "title": "Nj\u00e1l's Saga",
     "year": 1350,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Jane Austen",
@@ -85,7 +85,7 @@
     "pages": 226,
     "title": "Pride and Prejudice",
     "year": 1813,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Honor\u00e9 de Balzac",
@@ -96,7 +96,7 @@
     "pages": 443,
     "title": "Le P\u00e8re Goriot",
     "year": 1835,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Samuel Beckett",
@@ -107,7 +107,7 @@
     "pages": 256,
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
     "year": 1952,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Giovanni Boccaccio",
@@ -118,7 +118,7 @@
     "pages": 1024,
     "title": "The Decameron",
     "year": 1351,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Jorge Luis Borges",
@@ -129,7 +129,7 @@
     "pages": 224,
     "title": "Ficciones",
     "year": 1965,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Emily Bront\u00eb",
@@ -140,7 +140,7 @@
     "pages": 342,
     "title": "Wuthering Heights",
     "year": 1847,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Albert Camus",
@@ -151,7 +151,7 @@
     "pages": 185,
     "title": "The Stranger",
     "year": 1942,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Paul Celan",
@@ -162,7 +162,7 @@
     "pages": 320,
     "title": "Poems",
     "year": 1952,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Louis-Ferdinand C\u00e9line",
@@ -173,7 +173,7 @@
     "pages": 505,
     "title": "Journey to the End of the Night",
     "year": 1932,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Miguel de Cervantes",
@@ -184,7 +184,7 @@
     "pages": 1056,
     "title": "Don Quijote De La Mancha",
     "year": 1610,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Geoffrey Chaucer",
@@ -195,7 +195,7 @@
     "pages": 544,
     "title": "The Canterbury Tales",
     "year": 1450,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Anton Chekhov",
@@ -206,7 +206,7 @@
     "pages": 194,
     "title": "Stories",
     "year": 1886,
-	"category": "to-read"
+    "category": "to-read"
   },
   {
     "author": "Joseph Conrad",
@@ -217,7 +217,241 @@
     "pages": 320,
     "title": "Nostromo",
     "year": 1904,
-	"category": "to-read"
+    "category": "to-read"
+  },
+  {
+    "author": "Charles Dickens",
+    "country": "United Kingdom",
+    "imageLink": "images/great-expectations.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+    "
+Can you please add a descriptor "Category" for each JSON object, please? Have every object categorized as "to-read" please.
+ChatGPT
+Sure! Here is the modified JSON file with a "Category" field added to each book, all categorized as "to-read":
+
+json
+Copy code
+[
+  {
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "images/things-fall-apart.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "year": 1958,
+    "Category": "to-read"
+  },
+  {
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "images/fairy-tales.jpg",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836,
+    "Category": "to-read"
+  },
+  {
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "imageLink": "images/the-divine-comedy.jpg",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "year": 1315,
+    "Category": "to-read"
+  },
+  {
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "imageLink": "images/the-epic-of-gilgamesh.jpg",
+    "language": "Akkadian",
+    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700,
+    "Category": "to-read"
+  },
+  {
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "imageLink": "images/the-book-of-job.jpg",
+    "language": "Hebrew",
+    "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+    "pages": 176,
+    "title": "The Book Of Job",
+    "year": -600,
+    "Category": "to-read"
+  },
+  {
+    "author": "Unknown",
+    "country": "India/Iran/Iraq/Egypt/Tajikistan",
+    "imageLink": "images/one-thousand-and-one-nights.jpg",
+    "language": "Arabic",
+    "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+    "pages": 288,
+    "title": "One Thousand and One Nights",
+    "year": 1200,
+    "Category": "to-read"
+  },
+  {
+    "author": "Unknown",
+    "country": "Iceland",
+    "imageLink": "images/njals-saga.jpg",
+    "language": "Old Norse",
+    "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+    "pages": 384,
+    "title": "Njál's Saga",
+    "year": 1350,
+    "Category": "to-read"
+  },
+  {
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "imageLink": "images/pride-and-prejudice.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+    "pages": 226,
+    "title": "Pride and Prejudice",
+    "year": 1813,
+    "Category": "to-read"
+  },
+  {
+    "author": "Honoré de Balzac",
+    "country": "France",
+    "imageLink": "images/le-pere-goriot.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+    "pages": 443,
+    "title": "Le Père Goriot",
+    "year": 1835,
+    "Category": "to-read"
+  },
+  {
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+    "language": "French, English",
+    "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+    "pages": 256,
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "year": 1952,
+    "Category": "to-read"
+  },
+  {
+    "author": "Giovanni Boccaccio",
+    "country": "Italy",
+    "imageLink": "images/the-decameron.jpg",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+    "pages": 1024,
+    "title": "The Decameron",
+    "year": 1351,
+    "Category": "to-read"
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "country": "Argentina",
+    "imageLink": "images/ficciones.jpg",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+    "pages": 224,
+    "title": "Ficciones",
+    "year": 1965,
+    "Category": "to-read"
+  },
+  {
+    "author": "Emily Brontë",
+    "country": "United Kingdom",
+    "imageLink": "images/wuthering-heights.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+    "pages": 342,
+    "title": "Wuthering Heights",
+    "year": 1847,
+    "Category": "to-read"
+  },
+  {
+    "author": "Albert Camus",
+    "country": "Algeria, French Empire",
+    "imageLink": "images/l-etranger.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+    "pages": 185,
+    "title": "The Stranger",
+    "year": 1942,
+    "Category": "to-read"
+  },
+  {
+    "author": "Paul Celan",
+    "country": "Romania, France",
+    "imageLink": "images/poems-paul-celan.jpg",
+    "language": "German",
+    "link": "\n",
+    "pages": 320,
+    "title": "Poems",
+    "year": 1952,
+    "Category": "to-read"
+  },
+  {
+    "author": "Louis-Ferdinand Céline",
+    "country": "France",
+    "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
+    "pages": 505,
+    "title": "Journey to the End of the Night",
+    "year": 1932,
+    "Category": "to-read"
+  },
+  {
+    "author": "Miguel de Cervantes",
+    "country": "Spain",
+    "imageLink": "images/don-quijote-de-la-mancha.jpg",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
+    "pages": 1056,
+    "title": "Don Quijote De La Mancha",
+    "year": 1610,
+    "Category": "to-read"
+  },
+  {
+    "author": "Geoffrey Chaucer",
+    "country": "England",
+    "imageLink": "images/the-canterbury-tales.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+    "pages": 544,
+    "title": "The Canterbury Tales",
+    "year": 1450,
+    "Category": "to-read"
+  },
+  {
+    "author": "Anton Chekhov",
+    "country": "Russia",
+    "imageLink": "images/stories-of-anton-chekhov.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
+    "pages": 194,
+    "title": "Stories",
+    "year": 1886,
+    "Category": "to-read"
+  },
+  {
+    "author": "Joseph Conrad",
+    "country": "United Kingdom",
+    "imageLink": "images/nostromo.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+    "pages": 320,
+    "title": "Nostromo",
+    "year": 1904,
+    "Category": "to-read"
   },
   {
     "author": "Charles Dickens",
@@ -228,7 +462,7 @@
     "pages": 194,
     "title": "Great Expectations",
     "year": 1861,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Denis Diderot",
@@ -239,7 +473,7 @@
     "pages": 596,
     "title": "Jacques the Fatalist",
     "year": 1796,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Alfred D\u00f6blin",
@@ -250,7 +484,7 @@
     "pages": 600,
     "title": "Berlin Alexanderplatz",
     "year": 1929,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -261,7 +495,7 @@
     "pages": 551,
     "title": "Crime and Punishment",
     "year": 1866,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -272,7 +506,7 @@
     "pages": 656,
     "title": "The Idiot",
     "year": 1869,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -283,7 +517,7 @@
     "pages": 768,
     "title": "The Possessed",
     "year": 1872,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -294,7 +528,7 @@
     "pages": 824,
     "title": "The Brothers Karamazov",
     "year": 1880,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "George Eliot",
@@ -305,7 +539,7 @@
     "pages": 800,
     "title": "Middlemarch",
     "year": 1871,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Ralph Ellison",
@@ -316,7 +550,7 @@
     "pages": 581,
     "title": "Invisible Man",
     "year": 1952,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Euripides",
@@ -327,7 +561,7 @@
     "pages": 104,
     "title": "Medea",
     "year": -431,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "William Faulkner",
@@ -338,7 +572,7 @@
     "pages": 313,
     "title": "Absalom, Absalom!",
     "year": 1936,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "William Faulkner",
@@ -349,7 +583,7 @@
     "pages": 326,
     "title": "The Sound and the Fury",
     "year": 1929,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Gustave Flaubert",
@@ -360,7 +594,7 @@
     "pages": 528,
     "title": "Madame Bovary",
     "year": 1857,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Gustave Flaubert",
@@ -371,10 +605,10 @@
     "pages": 606,
     "title": "Sentimental Education",
     "year": 1869,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "Federico Garc\u00eda Lorca",
+    "author": "Federico García Lorca",
     "country": "Spain",
     "imageLink": "images/gypsy-ballads.jpg",
     "language": "Spanish",
@@ -382,10 +616,10 @@
     "pages": 218,
     "title": "Gypsy Ballads",
     "year": 1928,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "author": "Gabriel García Márquez",
     "country": "Colombia",
     "imageLink": "images/one-hundred-years-of-solitude.jpg",
     "language": "Spanish",
@@ -393,10 +627,10 @@
     "pages": 417,
     "title": "One Hundred Years of Solitude",
     "year": 1967,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "author": "Gabriel García Márquez",
     "country": "Colombia",
     "imageLink": "images/love-in-the-time-of-cholera.jpg",
     "language": "Spanish",
@@ -404,7 +638,7 @@
     "pages": 368,
     "title": "Love in the Time of Cholera",
     "year": 1985,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Johann Wolfgang von Goethe",
@@ -415,7 +649,7 @@
     "pages": 158,
     "title": "Faust",
     "year": 1832,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Nikolai Gogol",
@@ -426,10 +660,10 @@
     "pages": 432,
     "title": "Dead Souls",
     "year": 1842,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "G\u00fcnter Grass",
+    "author": "Günter Grass",
     "country": "Germany",
     "imageLink": "images/the-tin-drum.jpg",
     "language": "German",
@@ -437,10 +671,10 @@
     "pages": 600,
     "title": "The Tin Drum",
     "year": 1959,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "Jo\u00e3o Guimar\u00e3es Rosa",
+    "author": "João Guimarães Rosa",
     "country": "Brazil",
     "imageLink": "images/the-devil-to-pay-in-the-backlands.jpg",
     "language": "Portuguese",
@@ -448,7 +682,7 @@
     "pages": 494,
     "title": "The Devil to Pay in the Backlands",
     "year": 1956,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Knut Hamsun",
@@ -459,7 +693,7 @@
     "pages": 176,
     "title": "Hunger",
     "year": 1890,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Ernest Hemingway",
@@ -470,7 +704,7 @@
     "pages": 128,
     "title": "The Old Man and the Sea",
     "year": 1952,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Homer",
@@ -481,7 +715,7 @@
     "pages": 608,
     "title": "Iliad",
     "year": -735,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Homer",
@@ -492,7 +726,7 @@
     "pages": 374,
     "title": "Odyssey",
     "year": -800,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Henrik Ibsen",
@@ -503,7 +737,7 @@
     "pages": 68,
     "title": "A Doll's House",
     "year": 1879,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "James Joyce",
@@ -514,7 +748,7 @@
     "pages": 228,
     "title": "Ulysses",
     "year": 1922,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Franz Kafka",
@@ -525,7 +759,7 @@
     "pages": 488,
     "title": "Stories",
     "year": 1924,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Franz Kafka",
@@ -536,7 +770,7 @@
     "pages": 160,
     "title": "The Trial",
     "year": 1925,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Franz Kafka",
@@ -547,18 +781,18 @@
     "pages": 352,
     "title": "The Castle",
     "year": 1926,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "K\u0101lid\u0101sa",
+    "author": "Kālidāsa",
     "country": "India",
     "imageLink": "images/the-recognition-of-shakuntala.jpg",
     "language": "Sanskrit",
-    "link": "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam\n",
+    "link": "https://en.wikipedia.org/wiki/Shakuntala_(play)\n",
     "pages": 147,
     "title": "The recognition of Shakuntala",
     "year": 150,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Yasunari Kawabata",
@@ -569,7 +803,7 @@
     "pages": 288,
     "title": "The Sound of the Mountain",
     "year": 1954,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Nikos Kazantzakis",
@@ -580,7 +814,7 @@
     "pages": 368,
     "title": "Zorba the Greek",
     "year": 1946,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "D. H. Lawrence",
@@ -591,10 +825,10 @@
     "pages": 432,
     "title": "Sons and Lovers",
     "year": 1913,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "Halld\u00f3r Laxness",
+    "author": "Halldór Laxness",
     "country": "Iceland",
     "imageLink": "images/independent-people.jpg",
     "language": "Icelandic",
@@ -602,7 +836,7 @@
     "pages": 470,
     "title": "Independent People",
     "year": 1934,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Giacomo Leopardi",
@@ -613,7 +847,7 @@
     "pages": 184,
     "title": "Poems",
     "year": 1818,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Doris Lessing",
@@ -624,7 +858,7 @@
     "pages": 688,
     "title": "The Golden Notebook",
     "year": 1962,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Astrid Lindgren",
@@ -635,7 +869,7 @@
     "pages": 160,
     "title": "Pippi Longstocking",
     "year": 1945,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Lu Xun",
@@ -646,7 +880,7 @@
     "pages": 389,
     "title": "Diary of a Madman",
     "year": 1918,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Naguib Mahfouz",
@@ -657,7 +891,7 @@
     "pages": 355,
     "title": "Children of Gebelawi",
     "year": 1959,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Thomas Mann",
@@ -668,7 +902,7 @@
     "pages": 736,
     "title": "Buddenbrooks",
     "year": 1901,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Thomas Mann",
@@ -679,7 +913,7 @@
     "pages": 720,
     "title": "The Magic Mountain",
     "year": 1924,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Herman Melville",
@@ -690,7 +924,7 @@
     "pages": 378,
     "title": "Moby Dick",
     "year": 1851,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Michel de Montaigne",
@@ -701,7 +935,7 @@
     "pages": 404,
     "title": "Essays",
     "year": 1595,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Elsa Morante",
@@ -712,7 +946,7 @@
     "pages": 600,
     "title": "History",
     "year": 1974,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Toni Morrison",
@@ -723,18 +957,18 @@
     "pages": 321,
     "title": "Beloved",
     "year": 1987,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "Murasaki Shikibu",
+    "author": "Haruki Murakami",
     "country": "Japan",
-    "imageLink": "images/the-tale-of-genji.jpg",
+    "imageLink": "images/wild-sheep-chase.jpg",
     "language": "Japanese",
-    "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji\n",
-    "pages": 1360,
-    "title": "The Tale of Genji",
-    "year": 1006,
-	"category": "to-read"
+    "link": "https://en.wikipedia.org/wiki/A_Wild_Sheep_Chase\n",
+    "pages": 353,
+    "title": "A Wild Sheep Chase",
+    "year": 1982,
+    "Category": "to-read"
   },
   {
     "author": "Robert Musil",
@@ -745,7 +979,7 @@
     "pages": 365,
     "title": "The Man Without Qualities",
     "year": 1931,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Vladimir Nabokov",
@@ -756,7 +990,7 @@
     "pages": 317,
     "title": "Lolita",
     "year": 1955,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "George Orwell",
@@ -767,7 +1001,7 @@
     "pages": 272,
     "title": "Nineteen Eighty-Four",
     "year": 1949,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Ovid",
@@ -778,7 +1012,7 @@
     "pages": 576,
     "title": "Metamorphoses",
     "year": 100,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Fernando Pessoa",
@@ -789,32 +1023,32 @@
     "pages": 272,
     "title": "The Book of Disquiet",
     "year": 1928,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Edgar Allan Poe",
     "country": "United States",
     "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
     "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
+    "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography\n",
     "pages": 842,
     "title": "Tales",
     "year": 1950,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Marcel Proust",
     "country": "France",
-    "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
+    "imageLink": "images/in-search-of-lost-time.jpg",
     "language": "French",
     "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
-    "pages": 2408,
+    "pages": 2400,
     "title": "In Search of Lost Time",
     "year": 1920,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "Fran\u00e7ois Rabelais",
+    "author": "François Rabelais",
     "country": "France",
     "imageLink": "images/gargantua-and-pantagruel.jpg",
     "language": "French",
@@ -822,7 +1056,7 @@
     "pages": 623,
     "title": "Gargantua and Pantagruel",
     "year": 1533,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Juan Rulfo",
@@ -831,9 +1065,9 @@
     "language": "Spanish",
     "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n",
     "pages": 124,
-    "title": "Pedro P\u00e1ramo",
+    "title": "Pedro Páramo",
     "year": 1955,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Rumi",
@@ -844,7 +1078,7 @@
     "pages": 438,
     "title": "The Masnavi",
     "year": 1236,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Salman Rushdie",
@@ -855,18 +1089,18 @@
     "pages": 536,
     "title": "Midnight's Children",
     "year": 1981,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Saadi",
     "country": "Persia, Persian Empire",
-    "imageLink": "images/bostan.jpg",
+    "imageLink": "images/the-canterbury-tales.jpg",
     "language": "Persian",
-    "link": "https://en.wikipedia.org/wiki/Bustan_(book)\n",
+    "link": "https://en.wikipedia.org/wiki/Gulistan_(book)\n",
     "pages": 298,
     "title": "Bostan",
     "year": 1257,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Tayeb Salih",
@@ -877,10 +1111,10 @@
     "pages": 139,
     "title": "Season of Migration to the North",
     "year": 1966,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
-    "author": "Jos\u00e9 Saramago",
+    "author": "José Saramago",
     "country": "Portugal",
     "imageLink": "images/blindness.jpg",
     "language": "Portuguese",
@@ -888,7 +1122,7 @@
     "pages": 352,
     "title": "Blindness",
     "year": 1995,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "William Shakespeare",
@@ -899,7 +1133,7 @@
     "pages": 432,
     "title": "Hamlet",
     "year": 1603,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "William Shakespeare",
@@ -910,7 +1144,7 @@
     "pages": 384,
     "title": "King Lear",
     "year": 1608,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "William Shakespeare",
@@ -921,7 +1155,7 @@
     "pages": 314,
     "title": "Othello",
     "year": 1609,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Sophocles",
@@ -932,18 +1166,18 @@
     "pages": 88,
     "title": "Oedipus the King",
     "year": -430,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Stendhal",
     "country": "France",
-    "imageLink": "images/le-rouge-et-le-noir.jpg",
+    "imageLink": "images/the-red-and-the-black.jpg",
     "language": "French",
     "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n",
     "pages": 576,
     "title": "The Red and the Black",
     "year": 1830,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Laurence Sterne",
@@ -954,7 +1188,7 @@
     "pages": 640,
     "title": "The Life And Opinions of Tristram Shandy",
     "year": 1760,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Italo Svevo",
@@ -965,7 +1199,7 @@
     "pages": 412,
     "title": "Confessions of Zeno",
     "year": 1923,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Jonathan Swift",
@@ -976,7 +1210,7 @@
     "pages": 178,
     "title": "Gulliver's Travels",
     "year": 1726,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Leo Tolstoy",
@@ -987,7 +1221,7 @@
     "pages": 1296,
     "title": "War and Peace",
     "year": 1867,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Leo Tolstoy",
@@ -998,7 +1232,7 @@
     "pages": 864,
     "title": "Anna Karenina",
     "year": 1877,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Leo Tolstoy",
@@ -1009,7 +1243,7 @@
     "pages": 92,
     "title": "The Death of Ivan Ilyich",
     "year": 1886,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Mark Twain",
@@ -1020,7 +1254,7 @@
     "pages": 224,
     "title": "The Adventures of Huckleberry Finn",
     "year": 1884,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Valmiki",
@@ -1031,7 +1265,7 @@
     "pages": 152,
     "title": "Ramayana",
     "year": -450,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Virgil",
@@ -1042,7 +1276,7 @@
     "pages": 442,
     "title": "The Aeneid",
     "year": -23,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Vyasa",
@@ -1053,7 +1287,7 @@
     "pages": 276,
     "title": "Mahabharata",
     "year": -700,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Walt Whitman",
@@ -1064,7 +1298,7 @@
     "pages": 152,
     "title": "Leaves of Grass",
     "year": 1855,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Virginia Woolf",
@@ -1075,7 +1309,7 @@
     "pages": 216,
     "title": "Mrs Dalloway",
     "year": 1925,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Virginia Woolf",
@@ -1086,7 +1320,7 @@
     "pages": 209,
     "title": "To the Lighthouse",
     "year": 1927,
-	"category": "to-read"
+    "Category": "to-read"
   },
   {
     "author": "Marguerite Yourcenar",
@@ -1097,6 +1331,6 @@
     "pages": 408,
     "title": "Memoirs of Hadrian",
     "year": 1951,
-	"category": "to-read"
+    "Category": "to-read"
   }
 ]
